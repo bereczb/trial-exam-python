@@ -29,6 +29,10 @@ The application is accepted if:
 
 ### How can you get a random number in python? [2p]
 #### Your answer:
+You have to import 'random' module and choose the proper function such as randint.
+e.g. if you need a random integer which is greater or equal than a and less or equal than b, use the following:
+random.randint(a, b)
 
 ### What does M stand for in MVC? [2p]
 #### Your answer:
+M is Model in MVC. Model handles data and the calculations, logic.
